@@ -1,0 +1,18 @@
+/* White theame of editor
+(C) Windowsjiang 2024,All reserved */
+
+p.white{
+    background-color: white;
+    --font-color: black;
+    --highlight1: plum;
+    --highlight2: blue;
+    --highlight3: green;
+    --highlight4: orange;
+    --error: red;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    --font-style-1: normal;
+    --font-style-2: italic;
+    --font-style-3: bold;
+    --font-style-4: underline;
+}
